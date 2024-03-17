@@ -1,0 +1,23 @@
+.wrapper{color: maroon;
+    font-style: italic;
+    font-size: medium;
+    font-family: serif;
+    font-weight: 600;
+    height: 0rem;
+
+}
+#btn {
+    color: blue;
+    height: 40px; border-left-color: black;
+    font-weight: 600;
+    background-color: coral;
+    padding: 5px;
+    border-radius: 8em;
+    border: 3px;
+}
+#btn:hover {
+border:6px dashed chartreuse;
+font-family: sans-serif;
+background-color: antiquewhite;
+font-size: x-small;
+}
